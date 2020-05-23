@@ -9,5 +9,5 @@ List of useful apps for Mac OS X. Free and paid
 
 ## Utilities
 
-[OneSwitch](https://fireball.studio/oneswitch/) - :moneybag: :repeat_one: "All your powerful switches in one place"(c). Tollbar app to toggle various OS functions. Also awailable on Setapp.   
+[OneSwitch](https://fireball.studio/oneswitch/) - :moneybag: :repeat_one: "All your powerful switches in one place"(c). Toolbar app to toggle various OS functions. Also awailable on Setapp.   
 [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - :snowboarder: Small app, that adds new icons to your Finder to open anything inside your Terminal or Editor with a single click.
